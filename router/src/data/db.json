@@ -1,0 +1,137 @@
+{
+  "cocina": [
+    {
+      "id": 1,
+      "nombre_receta": "Gazpacho Andaluz",
+      "tipo": "frio",
+      "descripcion": "El gazpacho andaluz es, indudablemente, uno de los platos más típicos de la cocina española.",
+      "preparado": "Como os digo, en esto de los gazpachos la cosa va en gustos. Aunque en mi familia, jamás se perdona añadir cebolla o pimiento rojo a un gazpacho, la cebolla a veces se puede consentir muy picadita como guarnición -no dentro de los ingredientes triturados-, pero este punto será seguramente controvertido porque en otras casas se hará con cebolla siempre. Lo dejo a vuestro criterio. Lo del pimiento rojo es más delicado, puesto que siempre que se hacen gazpachos andaluces se debe hacer con pimiento verde que aporta un sabor peculiar que no encaja con el dulce del pimiento rojo carnoso. Digo lo mismo. Habrá casas donde se suela hacer con pimiento rojo, pues de acuerdo, pero si queréis hacerme caso, probad con mi receta y dejad el pimiento rojo para otros platos deliciosos como la ensalada de pimientos. Troceamos todos los ingredientes indicados en la proporción que os he puesto y añadimos 50 ml de aceite de oliva, 250 ml de agua de la nevera y 50 ml de vinagre de Jerez, triturando todo en la batidora de vaso o Turmix. No es necesario pelar los tomates o los pimientos porque luego lo vamos a pasar por el colador fino.",
+      "valoracion": "5",
+      "imagenes": "./img/cocina/cocina1.jpg"
+    },
+    {
+      "id": 2,
+      "nombre_receta": "Paella Valenciana",
+      "tipo": "caliente",
+      "descripcion": "Plato estrella de nuestra cocina junto a la tortilla de patatas o el gazpacho.",
+      "preparado": "Toda paella que se precie comienza por un buen sofrito. En una paella cuanto más grande mejor, se sofríe en abundante aceite el pollo, el conejo, las judías, las alcachofas y los caracoles (la que veis en la foto no tiene garrofó porque no es temporada y el congelado no es igual), sazonando con un poco de sal y pimentón hacia el final. Cuando esté bien dorado se añade el tomate triturado y se rehoga. Con el sofrito listo se debe de añadir el agua. Las proporciones dependen mucho del fuego, del calor que haga, del grado de humedad y de lo grande que sea la paella, pero para comenzar, una buena proporción es la de añadir tres veces el volumen de agua que de arroz, aunque es la experiencia la que os hará ajustar y perfeccionar estas cantidades, que acabaréis haciendo a ojo, como hicieron la tía y la madre de mi novia, que eran las encargadas de esta paella (a pesar de que la tradición marca que sea el hombre de la casa el que la prepare). Echamos ahora algunos troncos más al fuego para que suba de potencia y se haga bien el caldo durante 25 o 30 minutos. Es un buen momento de echar el azafrán o, en su defecto, el sazonador de paella (el más popular es el paellador), que lleva sal, ajo, colorante y un poco de azafrán. Paella Valenciana - elaboración Luego añadimos el arroz en caballete (en diagonal) y lo distribuimos por la paella. Cocemos entre 17 y 20 minutos, aunque aquí el tiempo lo marca de nuevo el grano de arroz y la potencia del fuego, que debemos ir dejando consumirse. Tiene que quedar completamente seco y suelto. Mi recomendación para los primerizos es que tengáis un cazo con agua hirviendo al lado, por si hay que añadir agua. A mitad cocción también podemos poner unas ramitas de romero, que retiraremos antes de servir. Por último, conviene dejar la paella reposar unos minutos tapada con un gran paño o papel de periódico --no es bueno porque con la humedad se puede liberar algo de tinta, pero toda la vida lo he visto usar antes de servirla y recibir el aplauso de los presentes.",
+      "valoracion": "5",
+      "imagenes": "./img/cocina/cocina2.jpg"
+    },
+    {
+      "id": 3,
+      "nombre_receta": "Migas Andaluzas",
+      "tipo": "frio",
+      "descripcion": "Las migas de pan son un plato típico de invierno en España, sobre en todo en la región del sur.",
+      "preparado": " Antes de ponernos a cocinar migas, lo primero que debes hacer es cortar el pan en cuadritos pequeños, como si fueran picatostes. Esto lo puedes hacer con un cuchillo o directamente con las tijeras de cocina. Recuerda que debes usar pan duro, viejo de al menos un día y si es posible, utiliza siempre un pan que tenga una buena miga. 2 A la hora de cocinar, calienta una sartén con un buen chorro de aceite y empieza por sofreír los ajos troceados hasta que empiecen a dorarse. 3 A continuación, coloca toda la carne en la sartén, es decir, el chorizo, el bacon, el jamón dulce y la chistorra, y sofríe en conjunto. La idea es que el aceite vaya tomando el sabor de todos estos ingredientes. La carne puedes comprarla ya cortada en tiras o sino, deberás cortarlo tu mismo, todo en trozos pequeños, más o menos parecidos a los trozos de pan.",
+      "valoracion": "5",
+      "imagenes": "./img/cocina/cocina3.jpg"
+    }
+  ],
+  "peliculas": [
+    {
+      "id": 0,
+      "nombre_pelicula": "",
+      "descripcion": "",
+      "genero": "",
+      "valoracion:": "",
+      "imagenes": ""
+    }
+  ],
+  "series": [
+    {
+      "id": 0,
+      "nombre_serie": "",
+      "descripcion": "",
+      "genero": "",
+      "valoracion:": "",
+      "imagenes": ""
+    }
+  ],
+  "lectura": [
+    {
+      "id": 1,
+      "nombre_libro": "El niño con el piajama de rayas",
+      "autor": "John Boyne",
+      "descripcion": "Aunque el uso habitual de un texto como éste es describir las  características de la obra, por una vez nos tomaremos la libertad de  hacer una excepción a la norma establecida. No sólo porque el libro que  tienes en tus manos es muy difícil de definir, sino porque estamos  convencidos de que explicar su contenido estropearía la experiencia de  la lectura. Creemos que es importante empezar esta novela sin saber de qué trata.No obstante, si decides embarcarte en la aventura, debes saber que  acompañarás a Bruno, un niño de nueve años, cuando se muda con su  familia a una casa junto a una cerca. Cercas como ésa existen en muchos  sitios del mundo, sólo deseamos que no te encuentres nunca con una. Por  último, cabe aclarar que este libro no es sólo para adultos; también lo  pueden leer, y sería recomendable que lo hicieran, niños a partir de los trece años de edad.",
+      "genero": "Novela Contemporanea",
+      "valoracion": "5",
+      "imagenes": "./img/lectura/lectura1.jpg"
+    },
+    {
+      "nombre_libro": "La bella y la Bestia",
+      "autor": "  MME Beanou",
+      "descripcion": "El cuento clasico de la bella y bestia",
+      "genero": "Cuento",
+      "valoracion": 5,
+      "imagenes": "./img/lectura/lectura2.jpg",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "nombre_libro": "El silencio de la Ciudad Blanca",
+      "autor": "Eva García Sáenz de Urturi",
+      "descripcion": "Un thriller hipnótico cuyas claves descansan en unos misteriosos res­tos arqueológicos. Primer volumen de laTrilogía de la Ciudad Blanca (Serie Kraken)Una novela negra absorbente que mezcla mitología y leyendas, arqueología y secretos de familia. Elegante. Compleja. Hipnótica.Tasio Ortiz de Zárate, el brillante arqueólogo condenado por los asesinatos que aterrorizaron Vitoria hace dos décadas, está a punto de salir de prisión cuando los crímenes se reanudan. En la Catedral Vieja, una pareja de veinte años aparece muerta por picaduras de abe­ja en la garganta. Pero solo serán los primeros.",
+      "genero": "Policiaca",
+      "valoracion": "5",
+      "imagenes": "./img/lectura/lectura3.jpg"
+    },
+    {
+      "id": 4,
+      "nombre_libro": "Patria",
+      "autor": "Fernando Aramburu",
+      "descripcion": "El mayor fenómeno literario de los últimos tiempos, ahora en edición bolsillo.El día en que ETA anuncia el abandono de las armas, Bittori se dirige al cementerio para contarle a la tumba de su marido el Txato, asesinado por los terroristas, que ha decidido volver a la casa donde vivieron. ¿Podrá convivir con quienes la acosaron antes y después del atentado que trastocó su vida y la de su familia? ¿Podrá saber quién fue el encapuchado que un día lluvioso mató a su marido, cuando volvía de su empresa de transportes? Por más que llegue a escondidas, la presencia de Bittori alterará la falsa tranquilidad del pueblo, sobre todo de su vecina Miren, amiga íntima en otro tiempo, y madre de Joxe Mari, un terrorista encarcelado y sospechoso de los peores temores de Bittori. ¿Qué pasó entre esas dos mujeres? ¿Qué ha envenenado la vida de sus hijos y sus maridos tan unidos en el pasado? Con sus desgarros disimulados y sus convicciones inquebrantables, con sus heridas y sus valentías, la historia incandescente de sus vidas antes y después del cráter que fue la muerte del Txato, nos habla de la imposibilidad de olvidar y de la necesidad de perdón en una comunidad rota por el fanatismo político.",
+      "genero": "Narrativa Española",
+      "valoracion": "5",
+      "imagenes": "./img/lectura/lectura4.jpg"
+    },
+    {
+      "id": 5,
+      "nombre_libro": "Africanus",
+      "autor": "Santiago Posteguillo",
+      "descripcion": "Con magistral precisión histórica y un excelente ritmo narrativo,  Santiago Posteguillo presenta la historia de la infancia y juventud de  Africanus, uno de los personajes más influyentes de Occidente.",
+      "genero": "Historia",
+      "valoracion": "5",
+      "imagenes": "./img/lectura/lectura5.jpg"
+    },
+    {
+      "id": 6,
+      "nombre_libro": "La Celestina",
+      "autor": "Fernando de Rojas",
+      "descripcion": "La Celestina constituye todavía para la crítica literaria una obra abierta a problemas sin resolver, objeto de opiniones irreconciliablemente divididas. El modo tradicional de acercamiento a  La Celestina  ha sido generalmente el del estudio de sus personajes. Esta nueva edición pretende ahondar en cuestiones más espinosas y poco seriamente consideradas, como son el autor, la intención y el género, haciendo hincapié en ese indudable lado cómico de la obra, frecuentemente olvidado por la crítica moderna, que ha preferido dar más importancia a su aspecto trágico.",
+      "genero": "Teatro",
+      "valoracion": "5",
+      "imagenes": "./img/lectura/lectura6.jpg"
+    },
+    {
+      "nombre_libro": "aa2",
+      "autor": "a",
+      "descripcion": "a",
+      "genero": "aa",
+      "valoracion": 3,
+      "imagenes": "https://imagessl6.casadellibro.com/a/l/s7/76/9788424939076.webp",
+      "id": 7
+    }
+  ],
+  "videojuegos": [
+    {
+      "id": 0,
+      "nombre_videojuego": "",
+      "plataforma": "",
+      "descripcion": "",
+      "genero": "",
+      "valoracion:": "",
+      "imagenes": ""
+    }
+  ],
+  "viajes": [
+    {
+      "id": 0,
+      "destino": "",
+      "pais": "",
+      "descripcion": "",
+      "valoracion:": "",
+      "imagenes": ""
+    }
+  ]
+}
