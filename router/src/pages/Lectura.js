@@ -283,7 +283,13 @@ function Lectura() {
           )}
         </div>
       </Modal>
-  
+      <Button
+        onClick={handleOpenAddBookModal}
+        variant="contained"
+        color="primary"
+      >
+        Agregar Libro
+      </Button>
       <Modal
         open={isAddBookModalOpen}
         onClose={handleCloseModal}
