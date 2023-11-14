@@ -116,22 +116,38 @@
   "videojuegos": [
     {
       "id": 0,
-      "nombre_videojuego": "",
-      "plataforma": "",
-      "descripcion": "",
-      "genero": "",
-      "valoracion:": "",
-      "imagenes": ""
+      "nombre_videojuego": "Metal Gear Solid 3",
+      "plataforma": "PS2",
+      "descripcion": "Tercera entrega del Metal Gear",
+      "genero": "Sigilo",
+      "valoracion:": 4,
+      "imagenes": "./img/videojuegos/videojuego1.jpg"
     }
   ],
   "viajes": [
     {
       "id": 0,
-      "destino": "",
-      "pais": "",
-      "descripcion": "",
-      "valoracion:": "",
-      "imagenes": ""
+      "destino": "Oslo",
+      "pais": "Noruega",
+      "descripcion": "Oslo, llamada Christiania (de 1624 a 1897) y Kristiania (de 1897 a 1925)  en español–, es la capital y la ciudad más poblada de Noruega, además de ser su centro político, económico y cultural. Políticamente constituye un municipio y a la vez una de las diecinueve provincias del país. Según el censo del 21 de noviembre de 2018, su población era de 673 469 habitantes.2​ Es la tercera ciudad y área urbana escandinava más poblada, solo superada por Copenhague y Estocolmo.",
+      "valoracion":4,
+      "imagenes": "./img/viajes/viajes1.jpg"
+    },
+    {
+      "id": 1,
+      "destino": "Sarajevo",
+      "pais": "Bosnia&Herzegovina",
+      "descripcion": "Sarajevo es una de las ciudades históricamente más interesantes y variadas de Europa. Es un lugar donde el Imperio Romano de Oriente y Occidente se dividió; donde la gente del oeste católico romano, el este ortodoxo oriental y el sur otomano se reunieron, vivieron y pelearon. Es tanto un ejemplo de turbulencia histórica y el choque de civilizaciones como un faro de esperanza para la paz a través de la tolerancia multicultural.",
+      "valoracion":5,
+      "imagenes": "./img/viajes/viajes2.jpg"
+    },
+    {
+      "id": 2,
+      "destino": "La Valeta",
+      "pais": "Malta",
+      "descripcion": "La Valletta (o Valeta), capital de Malta se encuentra en la costa nororiental de la isla principal. Ocupa una península rodeada por dos bahías naturales (Marsamxett y Grand Harbour) que la protegen y que fueron utilizadas desde la antigüedad como puerto y refugio de flotas pesqueras, comerciales y militares. La ciudad se extiende desde el la cercana y monumental Floriana, hasta la punta de la península donde se encuentra la fortaleza de San Telmo. ",
+      "valoracion":5,
+      "imagenes": "./img/viajes/viajes3.jpg"
     }
   ]
 }
